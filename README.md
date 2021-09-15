@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cdiproperzio1
+- 🌱 I’m currently looking to improve my skills in Java, Python, C, and shell-scripting. 
+- 💞️ I’m researching stlyometry. I also want to discover new ways to tell if a text is written by one or more authors. 
+- 📫 If also are interested in stylometry, you can email me at cmdipropo@gmail.com! 
